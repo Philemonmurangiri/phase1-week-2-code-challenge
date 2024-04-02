@@ -16,7 +16,7 @@ function swapCase(string) {
       }
     }
   
-    // Return the swapped string
+    // Return the swapped string 
     return required;
   }
   console.log(swapCase('tHE qUICK bROWN fOX'));
